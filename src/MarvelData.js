@@ -3,7 +3,7 @@ export const characters = [
   {
     name: "Tony Stark",
     alias: "Cristiano Ronaldo",
-    img1: "https://s.hs-data.com/bilder/spieler/gross/13029.jpg?fallback=png",
+    img1: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4a59805a8234ccc3/60df000cee9c2f22052cca6b/16c84589a1ceef313e45c4a39b0f28f2cbeaaf85.jpg?auto=webp&format=pjpg&width=1200&quality=60",
     homeworld: "Earth",
     abilities: [
       "Cristiano Ronaldo: Portuguese football legend, prolific goal-scorer, multiple Ballon d'Or win.",
@@ -12,6 +12,7 @@ export const characters = [
     description:
       "Tony Stark, also known as Iron Man, is a brilliant inventor, philanthropist, and industrialist. He uses his genius-level intellect and a highly advanced powered armor suit to fight for justice and protect the world from various threats. Stark is a charismatic playboy turned superhero who combines his technological prowess with unwavering determination to uphold the values of heroism and innovation.",
   },
+
   {
     name: "Pepper Potts",
     alias: "Lionel Messi",
@@ -19,7 +20,7 @@ export const characters = [
       "Lionel Messi: Argentine football icon, prolific scorer, numerous Ballon d'Or awards.",
     ],
     team: "Lionel Messi",
-    img1: "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4a59805a8234ccc3/60df000cee9c2f22052cca6b/16c84589a1ceef313e45c4a39b0f28f2cbeaaf85.jpg?auto=webp&format=pjpg&width=1200&quality=60",
+    img1: "https://s.hs-data.com/bilder/spieler/gross/13029.jpg?fallback=png",
     homeworld: "Earth",
     description:
       "Pepper Potts, the formidable Rescue, is an accomplished businesswoman and technological genius. She dons a powered armor suit equipped with an array of advanced technology and weaponry, allowing her to stand alongside the Avengers in the battle against supervillains and global threats. Pepper is a determined and fearless heroine with an unwavering commitment to justice.",
@@ -101,6 +102,54 @@ export const characters = [
     description:
       "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
   },
+  // {
+  //   name: "Sam Wilson",
+  //   alias: "Kevin De Bruyne",
+  //   abilities: [
+  //     "Kevin De Bruyne: Belgian footballer, elite midfielder for Manchester City.",
+  //   ],
+  //   team: "Kevin De Bruyne",
+  //   img1: "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=620&dpr=2&s=none",
+  //   homeworld: "Earth",
+  //   description:
+  //     "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  // },
+  // {
+  //   name: "Sam Wilson",
+  //   alias: "Kevin De Bruyne",
+  //   abilities: [
+  //     "Kevin De Bruyne: Belgian footballer, elite midfielder for Manchester City.",
+  //   ],
+  //   team: "Kevin De Bruyne",
+  //   img1: "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=620&dpr=2&s=none",
+  //   homeworld: "Earth",
+  //   description:
+  //     "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  // },
+  // {
+  //   name: "Sam Wilson",
+  //   alias: "Kevin De Bruyne",
+  //   abilities: [
+  //     "Kevin De Bruyne: Belgian footballer, elite midfielder for Manchester City.",
+  //   ],
+  //   team: "Kevin De Bruyne",
+  //   img1: "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=620&dpr=2&s=none",
+  //   homeworld: "Earth",
+  //   description:
+  //     "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  // },
+  // {
+  //   name: "Sam Wilson",
+  //   alias: "Kevin De Bruyne",
+  //   abilities: [
+  //     "Kevin De Bruyne: Belgian footballer, elite midfielder for Manchester City.",
+  //   ],
+  //   team: "Kevin De Bruyne",
+  //   img1: "https://i.guim.co.uk/img/media/400c88c3dbf2090591aa93f7c4acd1e4de5befa8/65_190_5578_3348/master/5578.jpg?width=620&dpr=2&s=none",
+  //   homeworld: "Earth",
+  //   description:
+  //     "Sam Wilson, the Falcon, soars through the skies with his high-tech wingsuit and possesses a unique telepathic link with birds. As an Avenger, Sam exemplifies freedom, hope, and unity, fighting alongside his fellow heroes to maintain peace and protect the world from impending threats.",
+  // },
 ];
 
 console.log(characters);
@@ -122,3 +171,6 @@ console.log(characters);
 // 1. git add .
 // 2. git commit
 // 3 git push
+
+// to withdral code
+// git pull "to pull latest changes"
